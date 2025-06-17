@@ -1,0 +1,93 @@
+特徴量名,単位,説明
+time,-,時間 (中央ヨーロッパ時間 にローカライズされたDatetimeインデックス)
+generation_biomass,MW,time列に記載の時刻の24時間前のバイオマス発電量 (MW)
+generation_fossil_brown_coal/lignite,MW,time列に記載の時刻の24時間前の褐炭・亜炭火力発電量 (MW)
+generation_fossil_gas,MW,time列に記載の時刻の24時間前の天然ガス火力発電量 (MW)
+generation_fossil_hard_coal,MW,time列に記載の時刻の24時間前の石炭火力発電量 (MW)
+generation_fossil_oil,MW,time列に記載の時刻の24時間前の石油火力発電量 (MW)
+generation_hydro_pumped_storage_consumption,MW,time列に記載の時刻の24時間前の揚水式水力発電消費量 (MW)
+generation_hydro_run_of_river_and_poundage,MW,time列に記載の時刻の24時間前の流込式水力発電量 (MW)
+generation_hydro_water_reservoir,MW,time列に記載の時刻の24時間前のダム式水力発電量 (MW)
+generation_nuclear,MW,time列に記載の時刻の24時間前の原子力発電量 (MW)
+generation_other,MW,time列に記載の時刻の24時間前のその他の発電量 (MW)
+generation_other_renewable,MW,time列に記載の時刻の24時間前のその他の再生可能エネルギー発電量 (MW)
+generation_solar,MW,time列に記載の時刻の24時間前の太陽光発電量 (MW)
+generation_waste,MW,time列に記載の時刻の24時間前の廃棄物発電量 (MW)
+generation_wind_onshore,MW,time列に記載の時刻の24時間前の陸上風力発電量 (MW)
+total_load_actual,MW,time列に記載の時刻の24時間前の電力総需要実績（MW）
+valencia_temp,ケルビン,time列に記載の時刻におけるバレンシアの気温 (ケルビン)
+valencia_temp_min,ケルビン,time列に記載の時刻におけるバレンシアの最低気温 (ケルビン)
+valencia_temp_max,ケルビン,time列に記載の時刻におけるバレンシアの最高気温 (ケルビン)
+valencia_pressure,hPa,time列に記載の時刻におけるバレンシアの気圧 (hPa)
+valencia_humidity,%,time列に記載の時刻におけるバレンシアの湿度 (%)
+valencia_wind_speed,m/s,time列に記載の時刻におけるバレンシアの風速 (m/s)
+valencia_wind_deg,-,time列に記載の時刻におけるバレンシアの風向
+valencia_rain_1h,mm,time列に記載の時刻におけるバレンシアの過去1時間の降雨量 (mm)
+valencia_rain_3h,mm,time列に記載の時刻におけるバレンシアの過去3時間の降雨量 (mm)
+valencia_snow_3h,mm,time列に記載の時刻におけるバレンシアの過去3時間の降雪量 (mm)
+valencia_clouds_all,%,time列に記載の時刻におけるバレンシアの全天の雲の割合（%）
+valencia_weather_id,-,time列に記載の時刻におけるバレンシアの天気を示すために使用されるコード
+valencia_weather_main,-,time列に記載の時刻におけるバレンシアの現在の天気の短い説明
+valencia_weather_description,-,time列に記載の時刻におけるバレンシアの現在の天気の詳細な説明
+valencia_weather_icon,-,time列に記載の時刻におけるバレンシアのウェブサイト用の天気アイコンコード
+madrid_temp,ケルビン,time列に記載の時刻におけるマドリードの気温 (ケルビン)
+madrid_temp_min,ケルビン,time列に記載の時刻におけるマドリードの最低気温 (ケルビン)
+madrid_temp_max,ケルビン,time列に記載の時刻におけるマドリードの最高気温 (ケルビン)
+madrid_pressure,hPa,time列に記載の時刻におけるマドリードの気圧 (hPa)
+madrid_humidity,%,time列に記載の時刻におけるマドリードの湿度 (%)
+madrid_wind_speed,m/s,time列に記載の時刻におけるマドリードの風速 (m/s)
+madrid_wind_deg,-,time列に記載の時刻におけるマドリードの風向
+madrid_rain_1h,mm,time列に記載の時刻におけるマドリードの過去1時間の降雨量 (mm)
+madrid_rain_3h,mm,time列に記載の時刻におけるマドリードの過去3時間の降雨量 (mm)
+madrid_snow_3h,mm,time列に記載の時刻におけるマドリードの過去3時間の降雪量 (mm)
+madrid_clouds_all,%,time列に記載の時刻におけるマドリードの全天の雲の割合（%）
+madrid_weather_id,-,time列に記載の時刻におけるマドリードの天気を示すために使用されるコード
+madrid_weather_main,-,time列に記載の時刻におけるマドリードの現在の天気の短い説明
+madrid_weather_description,-,time列に記載の時刻におけるマドリードの現在の天気の詳細な説明
+madrid_weather_icon,-,time列に記載の時刻におけるマドリードのウェブサイト用の天気アイコンコード
+bilbao_temp,ケルビン,time列に記載の時刻におけるビルバオの気温 (ケルビン)
+bilbao_temp_min,ケルビン,time列に記載の時刻におけるビルバオの最低気温 (ケルビン)
+bilbao_temp_max,ケルビン,time列に記載の時刻におけるビルバオの最高気温 (ケルビン)
+bilbao_pressure,hPa,time列に記載の時刻におけるビルバオの気圧 (hPa)
+bilbao_humidity,%,time列に記載の時刻におけるビルバオの湿度 (%)
+bilbao_wind_speed,m/s,time列に記載の時刻におけるビルバオの風速 (m/s)
+bilbao_wind_deg,-,time列に記載の時刻におけるビルバオの風向
+bilbao_rain_1h,mm,time列に記載の時刻におけるビルバオの過去1時間の降雨量 (mm)
+bilbao_rain_3h,mm,time列に記載の時刻におけるビルバオの過去3時間の降雨量 (mm)
+bilbao_snow_3h,mm,time列に記載の時刻におけるビルバオの過去3時間の降雪量 (mm)
+bilbao_clouds_all,%,time列に記載の時刻におけるビルバオの全天の雲の割合（%）
+bilbao_weather_id,-,time列に記載の時刻におけるビルバオの天気を示すために使用されるコード
+bilbao_weather_main,-,time列に記載の時刻におけるビルバオの現在の天気の短い説明
+bilbao_weather_description,-,time列に記載の時刻におけるビルバオの現在の天気の詳細な説明
+bilbao_weather_icon,-,time列に記載の時刻におけるビルバオのウェブサイト用の天気アイコンコード
+barcelona_temp,ケルビン,time列に記載の時刻におけるバルセロナの気温 (ケルビン)
+barcelona_temp_min,ケルビン,time列に記載の時刻におけるバルセロナの最低気温 (ケルビン)
+barcelona_temp_max,ケルビン,time列に記載の時刻におけるバルセロナの最高気温 (ケルビン)
+barcelona_pressure,hPa,time列に記載の時刻におけるバルセロナの気圧 (hPa)
+barcelona_humidity,%,time列に記載の時刻におけるバルセロナの湿度 (%)
+barcelona_wind_speed,m/s,time列に記載の時刻におけるバルセロナの風速 (m/s)
+barcelona_wind_deg,-,time列に記載の時刻におけるバルセロナの風向
+barcelona_rain_1h,mm,time列に記載の時刻におけるバルセロナの過去1時間の降雨量 (mm)
+barcelona_rain_3h,mm,time列に記載の時刻におけるバルセロナの過去3時間の降雨量 (mm)
+barcelona_snow_3h,mm,time列に記載の時刻におけるバルセロナの過去3時間の降雪量 (mm)
+barcelona_clouds_all,%,time列に記載の時刻におけるバルセロナの全天の雲の割合（%）
+barcelona_weather_id,-,time列に記載の時刻におけるバルセロナの天気を示すために使用されるコード
+barcelona_weather_main,-,time列に記載の時刻におけるバルセロナの現在の天気の短い説明
+barcelona_weather_description,-,time列に記載の時刻におけるバルセロナの現在の天気の詳細な説明
+barcelona_weather_icon,-,time列に記載の時刻におけるバルセロナのウェブサイト用の天気アイコンコード
+seville_temp,ケルビン,time列に記載の時刻におけるセビリアの気温 (ケルビン)
+seville_temp_min,ケルビン,time列に記載の時刻におけるセビリアの最低気温 (ケルビン)
+seville_temp_max,ケルビン,time列に記載の時刻におけるセビリアの最高気温 (ケルビン)
+seville_pressure,hPa,time列に記載の時刻におけるセビリアの気圧 (hPa)
+seville_humidity,%,time列に記載の時刻におけるセビリアの湿度 (%)
+seville_wind_speed,m/s,time列に記載の時刻におけるセビリアの風速 (m/s)
+seville_wind_deg,-,time列に記載の時刻におけるセビリアの風向
+seville_rain_1h,mm,time列に記載の時刻におけるセビリアの過去1時間の降雨量 (mm)
+seville_rain_3h,mm,time列に記載の時刻におけるセビリアの過去3時間の降雨量 (mm)
+seville_snow_3h,mm,time列に記載の時刻におけるセビリアの過去3時間の降雪量 (mm)
+seville_clouds_all,%,time列に記載の時刻におけるセビリアの全天の雲の割合（%）
+seville_weather_id,-,time列に記載の時刻におけるセビリアの天気を示すために使用されるコード
+seville_weather_main,-,time列に記載の時刻におけるセビリアの現在の天気の短い説明
+seville_weather_description,-,time列に記載の時刻におけるセビリアの現在の天気の詳細な説明
+seville_weather_icon,-,time列に記載の時刻におけるセビリアのウェブサイト用の天気アイコンコード
+price_actual,EUR/MWh,実際の電力価格 (EUR/MWh) (目標値)
