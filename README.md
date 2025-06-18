@@ -68,9 +68,8 @@ SIGNATE-SMBC-Group-Challenge-2025
   - 参考：[Kaggle日記という戦い方](https://zenn.dev/fkubota/articles/3d8afb0e919b555ef068)
   - 参考：[github](https://github.com/fkubota/kaggle-Cornell-Birdcall-Identification)
 
-#### 2
-[20250619](https://signate.jp/competitions/1634/discussions/eda-15)
-- 良い感じのEDAがまとめられていたので、よく見ておいた方が良さそう
+#### 20250619
+- 良い感じのEDAがまとめられていたので、よく見ておいた方が良さそう[Url](https://github.com/kaneda05/SIGNATE-SMBC-Group-Challenge-2025/blob/main/nb/01_EDA.ipynb)
 
 ChatGPTに電力価格予測における注目すべきポイントをまとめてもらうと以下の通り。
 
